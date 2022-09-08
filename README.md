@@ -4,5 +4,5 @@ This is a simulation script that simulates an AB test scenario. It allows you to
 
 Good reading: https://www.evanmiller.org/how-not-to-run-an-ab-test.html
 
-You can run the simulations yourself using Binder here:
+You can run the simulations yourself using Binder here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Thomas-Richardson/AB_test_peeking_simulations/main)
 
